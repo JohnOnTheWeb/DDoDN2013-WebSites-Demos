@@ -1,0 +1,42 @@
+﻿@font-face {
+	font-family: 'Segoe UI Symbol';
+	src: url('fonts/riesling.eot');
+	src: local('Segoe UI Symbol'), local('Segoe UI Symbol'), url('fonts/seguisym.ttf') format('truetype');
+}
+
+.Checking {
+    background-color: #d7de1e;
+}
+
+.Up {
+    background-color: #64cb5f;
+}
+
+.Down {
+    background-color: #e65656;
+}
+
+.icon {
+    font-family: 'Segoe UI Symbol';
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.iconContainer {
+    margin: 10px 0 0 0;
+    text-align: center;
+}
+
+.site {
+    text-align: center;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 10px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.siteName{
+    text-align: center;
+    display: inline;
+}
